@@ -2,3 +2,4 @@
 - POSTCSS
 - SHADCN.ui
 - RADIX.UI
+- npm i lucide-react (icons)
