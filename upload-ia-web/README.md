@@ -99,12 +99,3 @@ $ npm run dev
 _**Feito por <a href="https://github.com/RodrigoLuigi" target="_blank">Rodrigo Luigi</a>**_ 👨‍🚀
 
 <a href="#top">Back to top</a>
-
----
-
-- TAILWIND.CSS
-- POSTCSS
-- SHADCN.ui
-- RADIX.UI
-- npm i lucide-react (icons)
-  -npm install @ffmpeg/ffmpeg @ffmpeg/util
