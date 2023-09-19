@@ -14,7 +14,7 @@
 ## Screenshots
 
 <div align="center">
-  <img src="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F97c69c00-120d-4931-bc22-1d2cfb89c8a6%2Fe3eb71a9-b49f-456b-814c-9c23ee2dafe2%2FWallpaper_-_2560x1080.png?table=block&id=03c2316a-b5c6-4f08-8619-89e8cdaff8d6&spaceId=97c69c00-120d-4931-bc22-1d2cfb89c8a6&width=2000&userId=f6302265-ce93-4ce3-ab16-d418abdf1d49&cache=v2" width="270px" height="200px">
+  <img src="banner.png" width="100%" height="200px">
 </div>
 
 <br><hr>
