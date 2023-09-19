@@ -1,5 +1,9 @@
 # <h1 id="top" align="center">Upload.**AI**</h1>
 
+<div align="center">
+  <img src="banner.png" width="100%" height="200px">
+</div>
+
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#gear-features">Features</a> &#xa0; | &#xa0;
@@ -10,12 +14,6 @@
 </p>
 
 <br>
-
-## Screenshots
-
-<div align="center">
-  <img src="banner.png" width="100%" height="200px">
-</div>
 
 <br><hr>
 
