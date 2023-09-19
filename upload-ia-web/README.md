@@ -9,7 +9,7 @@
   <a href="https://github.com/rocketseat-education/nlw-ai-mastery" target="_blank">Author</a>
 </p>
 
-<br><hr>
+<br>
 
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
