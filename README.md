@@ -1,56 +1,21 @@
-# <h1 id="top" align="center">Upload.**AI**</h1>
-
 <div align="center">
   <img src="banner.png" width="100%" height="200px">
 </div>
 
+# <h1 id="top" align="center">⚛ Upload.**AI** 🧠</h1>
+
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#gear-features">Features</a> &#xa0; | &#xa0;
-  <a href="#books-bibliotecas">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#-requisitos">Requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando">Iniciando</a> &#xa0; | &#xa0;
-  <a href="https://github.com/RodrigoLuigi" target="_blank">Author</a>
+  <a href="https://github.com/rocketseat-education/nlw-ai-mastery" target="_blank">Author</a>
 </p>
 
 <br>
 
-<br><hr>
-
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
-📌
-
-## :gear: Features
-
-:heavy_check_mark: Upload de Video\
-:heavy_check_mark: Converção de mp4 para mp3\
-:heavy_check_mark: Transcrição do audio\
-:heavy_check_mark: Cadastro de Prompt\
-:heavy_check_mark: Listar Prompts\
-:heavy_check_mark: Gerar titulo/descrição
-
-## :books: Bibliotecas
-
-_**As seguintes bibliotecas foram utilizadas neste projeto:**_
-
-- [ReactJs]()
-- [typescript]()
-- [tailwind]()
-- [postcss]()
-- [shadcn]()
-- [radix]()
-- [lucide-react]()
-- [Axios]()
-- [ffmpeg]()
-
-- [node]()
-- [typescript]()
-- [fastify]()
-- [prisma]()
-- [zod]()
-- [openai]()
-- [ai (vercel)]()
+📌 Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
 
 ## 📝 Requisitos
 
@@ -62,18 +27,21 @@ _**As seguintes bibliotecas foram utilizadas neste projeto:**_
 
 #### Inicializando aplicação Back-end
 
-<!-- ```bash
+```bash
 # Clone este projeto
-$ git clone https://github.com/RodrigoLuigi/FoodExplorer-API.git
+$ git clone https://github.com/RodrigoLuigi/nlw-ia.git
 
 # Acesse o projeto
-$ cd FoodExplorer-API
+$ cd nlw-ia/upload-ai-api
 
 # Instale as dependências
 $ npm install
 
 # Inicializando Migrations
-$ npm run migrate
+$ npx prisma migrate dev
+
+# Populando o db.
+$ npx prisma db seed
 
 # Inicializando projeto
 $ npm start
@@ -87,11 +55,8 @@ $ npm run dev
 #### Inicializando aplicação Front-end
 
 ```bash
-# Clone este projeto
-$ git clone https://github.com/RodrigoLuigi/FoodExplorer-Frontend.git
-
 # Acesse o projeto
-$ cd FoodExplorer-Frontend
+$ cd nlw-ia/upload-ia-web
 
 # Instale as dependências
 $ npm install
@@ -100,7 +65,7 @@ $ npm install
 $ npm run dev
 
 # O Server irá inicializar em http://localhost:5173
-``` -->
+```
 
 &#xa0;
 
