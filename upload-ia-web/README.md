@@ -1,9 +1,5 @@
 # <h1 id="top" align="center">Upload.**AI**</h1>
 
-<div align="center">
-  <img src="banner.png" width="100%" height="200px">
-</div>
-
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#gear-features">Features</a> &#xa0; | &#xa0;
@@ -13,13 +9,11 @@
   <a href="https://github.com/rocketseat-education/nlw-ai-mastery" target="_blank">Author</a>
 </p>
 
-<br>
-
 <br><hr>
 
 ## <img id="sobre" src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
-📌 Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
+📌 Aplicação Frontend que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
 
 ## :gear: Features
 
