@@ -17,6 +17,16 @@
 
 📌 Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
 
+<br>
+
+## Screenshots
+
+<div align="center">
+  <img src="upload-ai.png">
+</div>
+
+<br><hr>
+
 ## 📝 Requisitos
 
 - [Git](https://git-scm.com)
