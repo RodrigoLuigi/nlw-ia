@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" height="200px">
+  <img src="public/banner.png" width="100%" height="200px">
 </div>
 
 # <h1 id="top" align="center">⚛ Upload.**AI** 🧠</h1>
@@ -22,7 +22,7 @@
 ## Screenshots
 
 <div align="center">
-  <img src="upload-ai.png">
+  <img src="public/upload-ai.png">
 </div>
 
 <br><hr>
